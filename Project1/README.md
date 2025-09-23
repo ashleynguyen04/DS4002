@@ -33,13 +33,13 @@ It enables users to get their bearings and reproduce results.
 
 ## Section 2: Map of Documentation
 ```
-Project1/
-├── DATA/
+Project1
+├── DATA
 │   ├── Appendix.pdf            # Data dictionary and descriptive statistics
 │   └── README.md               # How to obtain the raw datasets
-├── OUTPUT/
+├── OUTPUT
 │   └── OUTPUT_Project1.pdf     # Final report with results
-├── SCRIPTS/
+├── SCRIPTS
 │   └── project1.ipynb          # Full dataset creation + analysis pipeline
 ├── LICENSE.md                  # MIT License for repository code
 └── README.md                   # Main orientation file (this document)
