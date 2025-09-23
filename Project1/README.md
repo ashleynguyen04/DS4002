@@ -7,12 +7,12 @@ It enables users to get their bearings and reproduce results.
 
 ## Contents of the Repository
 
-- **DATA/**
+- **DATA**
   - `Appendix.pdf`: Contains dataset descriptions, variable dictionaries, and descriptive statistics.
   - `README.md`: Instructions for downloading and preparing the raw datasets.
-- **SCRIPTS/**
+- **SCRIPTS**
   - `project1.ipynb`: Jupyter/Colab notebook with the full dataset creation and analysis pipeline.
-- **OUTPUT/**
+- **OUTPUT**
   - `OUTPUT_Project1.pdf`: Final report including figures, tables, and summary of findings.
 - **LICENSE.md**: MIT License for code and documentation in this repository.
 - **README.md**: (this file) Orientation, environment requirements, and reproduction instructions.
@@ -32,6 +32,7 @@ It enables users to get their bearings and reproduce results.
 - `tqdm`  
 
 ## Section 2: Map of Documentation
+```
 Project1/
 ├── DATA/
 │   ├── Appendix.pdf            # Data dictionary and descriptive statistics
@@ -42,7 +43,7 @@ Project1/
 │   └── project1.ipynb          # Full dataset creation + analysis pipeline
 ├── LICENSE.md                  # MIT License for repository code
 └── README.md                   # Main orientation file (this document)
-
+```
 ## Section 3: Instructions for Reproducing Results
 
 Follow these steps to reproduce the analysis from scratch.
