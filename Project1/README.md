@@ -22,7 +22,7 @@ It enables users to get their bearings and reproduce results.
 
 **Software Used**
 - Python 3.10+  
-- Jupyter Notebook / Google Colab  
+- Google Colab  
 
 **Required Packages**
 - `pandas`  
