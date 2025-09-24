@@ -11,7 +11,7 @@ It enables users to get their bearings and reproduce results.
   - `Appendix.pdf`: Contains dataset descriptions, variable dictionaries, and descriptive statistics.
   - `README.md`: Instructions for downloading and preparing the raw datasets.
 - **SCRIPTS**
-  - `project1.ipynb`: Jupyter/Colab notebook with the full dataset creation and analysis pipeline.
+  - `project1.ipynb`: Colab notebook with the full dataset creation and analysis pipeline.
 - **OUTPUT**
   - `OUTPUT_Project1.pdf`: Final report including figures, tables, and summary of findings.
 - **LICENSE.md**: MIT License for code and documentation in this repository.
