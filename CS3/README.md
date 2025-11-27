@@ -1,4 +1,4 @@
-# Case Study 3 (CS3) - Lights, Camera, Reaction! -  Analyzing the sentiment of IMDb movie reviews
+# Case Study 3 (CS3) - Lights, Camera, Reaction! – Analyzing IMDb Movie Reviews Sentiment Across Genres
 
 ## Data
 Instructions on where to download the datasets from can be found here. The IMDB movie reviews and IMDB metadata will both download to your local computer as zip files. 
