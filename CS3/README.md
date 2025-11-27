@@ -9,5 +9,7 @@ Code to create the merged dataset between the movie reviews and metadata as well
 ## Supplemental Materials
 
 ## Hook
+This document contains an introduction to the project and the deliverable for this assignment. 
 
 ## Rubric
+This document contains the purpose of the project, tasks to execute, and the overall goal of the assignment. 
