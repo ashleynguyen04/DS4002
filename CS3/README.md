@@ -7,6 +7,7 @@ Instructions on where to download the datasets from can be found here. The IMDB 
 Code to create the merged dataset between the movie reviews and metadata as well as the sentiment analysis can be found here. 
 
 ## Supplemental Materials
+Relevant articles surrounding sentiment analysis can be found here. 
 
 ## Hook
 This document contains an introduction to the project and the deliverable for this assignment. 
