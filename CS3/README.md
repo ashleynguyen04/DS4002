@@ -9,7 +9,7 @@ Code to create the merged dataset between the movie reviews and metadata as well
 ## Supplemental Materials
 Relevant articles surrounding sentiment analysis can be found here. 
 
-## Introduction and Deliverable
+## Introduction and Deliverables
 This document contains an introduction to the project and the deliverables for this assignment. 
 
 ## Rubric
