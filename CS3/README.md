@@ -4,7 +4,7 @@
 Instructions on where to download the datasets from can be found here. The IMDB movie reviews and IMDB metadata will both download to your local computer as zip files. 
 
 ## Scripts
-Code to create the merged dataset between the movie reviews and metadata as well as the sentiment analysis, can be found here. 
+Example code to create the merged dataset between the movie reviews and metadata as well as the sentiment analysis, can be found here. Do not copy this code, but rather use it as a guide when creating your own scripts.
 
 ## Supplemental Materials
 Relevant articles surrounding sentiment analysis and Multinomial Naive Bayes model can be found here. 
